@@ -1,0 +1,11 @@
+Date,Region,Product,Quantity,UnitPrice,SalesPerson
+2025-01-01,North,Notebook,10,120,Somchai
+2025-01-01,North,Mouse,15,250,Suda
+2025-01-02,Central,Keyboard,5,750,Anan
+2025-01-02,Central,Monitor,2,4500,Somchai
+2025-01-03,South,Laptop,1,28000,Nok
+2025-01-03,North,Mouse,7,250,Suda
+2025-01-04,East,Notebook,12,120,Anan
+2025-01-04,Central,Monitor,3,4500,Nok
+2025-01-05,South,Laptop,2,28000,Somchai
+2025-01-05,East,Speaker,8,750,Suda

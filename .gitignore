@@ -7,6 +7,8 @@ workshop2-pdf-mcp/.env
 workshop3-gsheets-mcp/.venv/
 workshop3-gsheets-mcp/.env
 workshop3-gsheets-mcp/service_account.json
+workshop4-mcp-csv-agent/.venv/
+workshop4-mcp-csv-agent/.env
 __pycache__/
 *.pyc
 .DS_Store

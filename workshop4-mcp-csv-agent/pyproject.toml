@@ -1,0 +1,11 @@
+[project]
+name = "workshop4-mcp-csv-agent"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "fastmcp>=2.14.1",
+    "pandas>=2.3.3",
+    "python-dotenv>=1.2.1",
+]
